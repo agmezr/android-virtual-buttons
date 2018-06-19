@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VirtualButtons</string>
+    <string name="volume_up">Volume up</string>
+    <string name="volume_down">Volume Down</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="permission_needed">This permission is needed to lock the screen</string>
+    <string name="permission_granted">Permission granted!</string>
+    <string name="permission_not_granted">Permission denied! Cannot lock screen until you grant permission</string>
+</resources>
